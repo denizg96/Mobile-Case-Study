@@ -1,0 +1,6 @@
+framework module Pods_Mobile_Case_Study_Mobile_Case_StudyUITests {
+  umbrella header "Pods-Mobile Case Study-Mobile Case StudyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
